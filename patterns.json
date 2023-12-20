@@ -1,0 +1,17 @@
+{
+  "custom": {
+    "folders": ["controllers", "models", "routes", "middlewares"]
+  },
+  "mvc": {
+    "folders": ["models", "views", "controllers", "routes", "middlewares", "public"]
+  },
+  "mvp": {
+    "folders": ["models", "views", "presenters"]
+  },
+  "mvvm": {
+    "folders": ["models", "views", "viewmodels"]
+  },
+  "repository": {
+    "folders": ["models", "repositories", "services", "controllers"]
+  }
+}
