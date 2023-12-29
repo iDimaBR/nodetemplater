@@ -35,4 +35,4 @@ Atualmente, o Nodetemplater oferece suporte aos seguintes design patterns para a
 Entre outros padrões...
 
 ## Contribuindo
-Se você deseja contribuir com o Nodetemplater, sinta-se à vontade para abrir uma issue ou enviar um pull request no repositório GitHub. Estamos abertos a sugestões, correções e melhorias =)
+Se você deseja contribuir com o Nodetemplater, sinta-se à vontade para abrir uma issue ou enviar um pull request no [repositório GitHub](https://github.com/iDimaBR/nodetemplater). Estamos abertos a sugestões, correções e melhorias =)
